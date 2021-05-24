@@ -10,3 +10,7 @@ Step 2: npm start
 It will be on localhost:3000
 
 To not run locally, you can install the extension live server and right click on index.html inside public folder and press open with live server
+
+** NOTES ON EDIT FUNCTION** 
+To edit, press the pen icon
+To save changes, press the pen icon again
