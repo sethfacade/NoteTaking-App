@@ -1,0 +1,21 @@
+.center {
+  text-align: center;
+}
+
+body {
+  background-color: #faf1e6;
+}
+
+.card {
+  background-color: #ffee93;
+}
+span {
+  text-align: center;
+}
+.fas {
+  size: 3rem;
+}
+
+#pen {
+  color: #0d6efd;
+}
